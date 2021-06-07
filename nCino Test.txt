@@ -1,3 +1,4 @@
 nCino Test
 This is local change
 This is Git change
+This is conflict
