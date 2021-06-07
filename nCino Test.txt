@@ -1,2 +1,3 @@
 nCino Test
 This is local change
+This is conflict
